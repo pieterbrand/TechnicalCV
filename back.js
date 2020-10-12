@@ -13,4 +13,5 @@ var title = new Vue({
         email: "pbrand61@gmail.com",
         cell: "+2783 271 1102"
     }
+    
 })
