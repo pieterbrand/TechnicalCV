@@ -1,13 +1,13 @@
 
-body {
-  
-
-    padding-left: 45em;
-    padding-right: 45em;
+body { 
+    max-width: 300px;
+    margin: auto;
     font-family: Georgia, "Times New Roman",
           Times, serif;
     color: rgb(0, 0, 0);
-    background-color: #127e20 }
+    background-color: #127e20;
+    background-size: 20%;
+   }
 h1 {
   font-family: Helvetica, Geneva, Arial,
         SunSans-Regular, sans-serif }
